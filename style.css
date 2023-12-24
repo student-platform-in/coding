@@ -1,7 +1,11 @@
+@font-face {
+    font-family:arial ;
+    src: url(./arial_narrow_7.woff2);
+}
 * {
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: arial;
 
 }
 
